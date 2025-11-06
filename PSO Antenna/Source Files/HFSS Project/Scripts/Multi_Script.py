@@ -1,0 +1,10 @@
+import ScriptEnv
+ScriptEnv.Initialize("Ansoft.ElectronicsDesktop")
+oDesktop.RestoreWindow()
+oDesktop.OpenProject("D:\ANSYS Working Folder\PSO\PSO Antenna\HFSS_PSO\Source Files\HFSS Project\Implantable WPT.aedt")
+oDesktop.RunScript ("D:\ANSYS Working Folder\PSO\PSO Antenna\HFSS_PSO\Source Files\HFSS Project\Scripts\Segmented Scripts\DynamicVariables.py")
+oDesktop.RunScript ("D:\ANSYS Working Folder\PSO\PSO Antenna\HFSS_PSO\Source Files\HFSS Project\Scripts\Segmented Scripts\ExportDesignFigure.py")
+oDesktop.RunScript ("D:\ANSYS Working Folder\PSO\PSO Antenna\HFSS_PSO\Source Files\HFSS Project\Scripts\Segmented Scripts\AnalyzeAll.py")
+oDesktop.RunScript ("D:\ANSYS Working Folder\PSO\PSO Antenna\HFSS_PSO\Source Files\HFSS Project\Scripts\Segmented Scripts\ExportCSV.py")
+oDesktop.RunScript ("D:\ANSYS Working Folder\PSO\PSO Antenna\HFSS_PSO\Source Files\HFSS Project\Scripts\Segmented Scripts\ErrorHandling.py")
+oDesktop.RunScript ("D:\ANSYS Working Folder\PSO\PSO Antenna\HFSS_PSO\Source Files\HFSS Project\Scripts\Segmented Scripts\SaveClose.py")
