@@ -25,14 +25,18 @@ Latest update on: <mark>29Dec2025</mark>
 
 ### Figure 4. Objective Function of a 4-D Particle<sup>1</sup>
 
-Footnote: 1. Data extracted from ANSYS/HFSS, Image generated from PSO Algorithm
+Footnote: 
+1. Data extracted from ANSYS/HFSS, Image generated from PSO Algorithm
 
-Prerequisite steps to run software:
-1. Install Python standard libraries
-pip install numpy
-pip install matplotlib
-pip install pandas
-pip install opencv-python
+
+
+## Prerequisite steps to execute AI/PSO algorithm program:
+
+1. Install Python standard libraries:
+a. pip install numpy
+b. pip install matplotlib
+c. pip install pandas
+d. pip install opencv-python
 
 2. Update directories:
 a. Locate Source Files/Constants.py and update the following code lines to match the directories on your local PC:
