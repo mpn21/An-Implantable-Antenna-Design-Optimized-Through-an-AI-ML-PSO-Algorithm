@@ -1,5 +1,5 @@
-# **An Implantable Antenna Design Optimized Through AI/ML PSO Algorithm**
-Latest update on: <mark>06Nov2025</mark>
+# **An Implantable Antenna Design Optimized Using AI/ML PSO Algorithm**
+Latest update on: <mark>29Dec2025</mark>
 
 ## Publication hyperlink: <mark>In-progress, TBD</mark>
 <img src="https://github.com/mpn21/An-Implantable-Antenna-Design-Optimized-Through-an-AI-ML-PSO-Algorithm/blob/3db973f640b5f696a1028f0965dc268397450540/Conceptual%20diagram.png" width="800" height="800"/>
@@ -25,6 +25,28 @@ Latest update on: <mark>06Nov2025</mark>
 
 ### Figure 4. Objective Function of a 4-D Particle<sup>1</sup>
 
+Footnote: 1. Data extracted from ANSYS/HFSS, Image generated from PSO Algorithm
+
+Prerequisite steps to run software:
+1. Install Python standard libraries
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install opencv-python
+
+2. Update directories:
+a. Locate Source Files/Constants.py and update the following code lines to match the directories on your local PC:
+- line 12
+- line 15
+- line 21
+- line 27
+- line 31
+- line 35
+- line 38
+- line 43
+- line 49
+- line 52
+
+3. Using a Python IDE like VSCode, open and execute Source Files/main.py
 
 
-Footnote: 1. Data Extracted from ANSYS/HFSS, Image generated from PSO Algorithm
