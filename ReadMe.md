@@ -1,5 +1,5 @@
 # **An Implantable Antenna Design Optimized Using ML PSO Algorithm**
-Latest update on: <mark>29Dec2025</mark>
+Latest update on: <mark>30Dec2025</mark>
 ## Publication hyperlink: <mark>In-progress, TBD</mark>
 Authors: Michael Nguyen<sup>1</sup>, Lauren Linkous<sup>2</sup>, Michael Suche<sup>2</sup>, and Ryan Green<sup>1</sup>
 
