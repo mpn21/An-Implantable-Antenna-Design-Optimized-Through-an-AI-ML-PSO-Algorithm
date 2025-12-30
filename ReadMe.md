@@ -17,7 +17,7 @@ This repository provides supplemental materials supporting the journal publicati
 
 As shown in Figure 1, we present an implantable antenna design optimized using an open-source ML PSO algorithm. The antenna operates in the 1.4 GHz WMTS band and is fabricated on Rogers 6010.2. The optimization process is divided into three stages: 1. Configuring a 4-degree-of-freedom (DoF) operational environment by adjusting implantation depth and the thicknesses of the skin, adipose, and muscle layers, 2. Defining a 6-DoF serpentine antenna geometry using parameters D1, D2, FP, N, TW, and SP, and 3. Applying PSO to optimize the antenna design while visualizing multidimensional particle behavior for performance evaluation.
 
-<img src="https://github.com/mpn21/An-Implantable-Antenna-Design-Optimized-Through-an-AI-ML-PSO-Algorithm/blob/3db973f640b5f696a1028f0965dc268397450540/Conceptual%20diagram.png" width="800" height="800"/>
+<img src="https://github.com/mpn21/An-Implantable-Antenna-Design-Optimized-Through-an-AI-ML-PSO-Algorithm/blob/main/Conceptual%20diagram.png" width="800" height="800"/>
 
 ###### Figure 1. Three-Stage Approach to Optimize an Implantable Antenna Design using ML PSO Algorithm
 
