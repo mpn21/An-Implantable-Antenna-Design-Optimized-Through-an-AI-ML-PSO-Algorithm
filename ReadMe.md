@@ -15,7 +15,7 @@ This repository provides supplemental materials supporting the journal publicati
 
 **2. Overview**
 
-As shown in Figure 1, we present an implantable antenna design optimized using an open-source ML PSO algorithm. The antenna operates in the 1.4 GHz WMTS band and is fabricated on Rogers 6010.2. The optimization process is divided into three stages: 1. Configuring a 4-degree-of-freedom (DoF) operational environment by adjusting implantation depth and the thicknesses of the skin, adipose, and muscle layers, 2. Defining a six-DoF serpentine antenna geometry using parameters D1, D2, FP, N, TW, and SP, and 3. Applying PSO to optimize the antenna design while visualizing multidimensional particle behavior for performance evaluation.
+As shown in Figure 1, we present an implantable antenna design optimized using an open-source ML PSO algorithm. The antenna operates in the 1.4 GHz WMTS band and is fabricated on Rogers 6010.2. The optimization process is divided into three stages: 1. Configuring a 4-degree-of-freedom (DoF) operational environment by adjusting implantation depth and the thicknesses of the skin, adipose, and muscle layers, 2. Defining a 6-DoF serpentine antenna geometry using parameters D1, D2, FP, N, TW, and SP, and 3. Applying PSO to optimize the antenna design while visualizing multidimensional particle behavior for performance evaluation.
 
 <img src="https://github.com/mpn21/An-Implantable-Antenna-Design-Optimized-Through-an-AI-ML-PSO-Algorithm/blob/3db973f640b5f696a1028f0965dc268397450540/Conceptual%20diagram.png" width="800" height="800"/>
 
@@ -78,5 +78,17 @@ a. Locate Source Files/Constants.py and update the following code lines to match
 - line 52
 
 4.3. Using a Python IDE like VSCode, open and execute Source Files/main.py
+
+5.0 Results
+
+Using an LPKF S103 PCB milling machine, the implantable antenna design optimized using the ML PSO algorithm was fabricated (Figure 5). The antenna is relatively small (19 mm × 1.27 mm), comparable in size to a U.S. dime (18 mm x 1.35 mm). The design was validated through simulation and *in-vitro* testing using human-tissue phantoms. Our manuscript presents detailed measurements characterizing the antenna design, antenna gain, current distribution, return loss (S11), and insertion loss (S21) between phantom tissues. Topics such as alternative materials for the adipose phantom and multi-dimensional particles are discussed in the manuscript.  
+
+<p align="center">
+<img src="https://github.com/mpn21/An-Implantable-Antenna-Design-Optimized-Through-an-AI-ML-PSO-Algorithm/blob/main/Fab%20IMD%20Antenna.png" width="400" height="400"/>
+</p>
+
+###### Figure 5. Fabricated Implantable Antenna
+
+
 
 
