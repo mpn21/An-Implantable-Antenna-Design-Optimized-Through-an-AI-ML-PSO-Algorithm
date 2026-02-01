@@ -1,6 +1,6 @@
 # **An Implantable Antenna Design Optimized Using ML PSO Algorithm**
 Latest update on: 01Feb2025
-### Publication: [https://doi.org/10.3390/ai7020047](https://www.mdpi.com/2673-2688/7/2/47) , 20Jan2026
+### Publication: [https://doi.org/10.3390/ai7020047](https://www.mdpi.com/2673-2688/7/2/47), 20Jan2026
 Authors: Michael Nguyen<sup>1</sup>, Lauren Linkous<sup>2</sup>, Michael Suche<sup>2</sup>, and Ryan Green<sup>1</sup>
 
 ###### 1. Electrical and Computer Engineering Department, Mississippi State University, Mississippi State, MS 39562 USA
